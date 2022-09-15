@@ -26,6 +26,12 @@ I'm an indie full-stack developer and content creator building my version of the
 ## 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![5 Coding Projects (from beginner to advanced)](https://ytcards.demolab.com/?id=n2B-FClr5rA&title=5+Coding+Projects+%28from+beginner+to+advanced%29&timestamp=1663079409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1090 "5 Coding Projects (from beginner to advanced)")](https://www.youtube.com/watch?v=n2B-FClr5rA)
+[![I Built an AI That Shoots Me in the Face When I Get Distracted](https://ytcards.demolab.com/?id=A8eegxL82PI&title=I+Built+an+AI+That+Shoots+Me+in+the+Face+When+I+Get+Distracted&timestamp=1662046201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=570 "I Built an AI That Shoots Me in the Face When I Get Distracted")](https://www.youtube.com/watch?v=A8eegxL82PI)
+[![Why I’m able to Code 4 Hours with NO breaks (how to stay focused & productive)](https://ytcards.demolab.com/?id=H68Iqm6c36U&title=Why+I%E2%80%99m+able+to+Code+4+Hours+with+NO+breaks+%28how+to+stay+focused+%26+productive%29&timestamp=1660140015&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=538 "Why I’m able to Code 4 Hours with NO breaks (how to stay focused & productive)")](https://www.youtube.com/watch?v=H68Iqm6c36U)
+[![My Visual Studio Code Setup for Web Development](https://ytcards.demolab.com/?id=H2gvHxC9gFY&title=My+Visual+Studio+Code+Setup+for+Web+Development&timestamp=1659103208&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=922 "My Visual Studio Code Setup for Web Development")](https://www.youtube.com/watch?v=H2gvHxC9gFY)
+[![Everything You NEED to Know About WEB APP Architecture](https://ytcards.demolab.com/?id=sDlCSIDwpDs&title=Everything+You+NEED+to+Know+About+WEB+APP+Architecture&timestamp=1655911813&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=627 "Everything You NEED to Know About WEB APP Architecture")](https://www.youtube.com/watch?v=sDlCSIDwpDs)
+[![Programming Projects EVERY Computer Science Student Will Build](https://ytcards.demolab.com/?id=KcJdUC3EmKA&title=Programming+Projects+EVERY+Computer+Science+Student+Will+Build&timestamp=1654869610&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=609 "Programming Projects EVERY Computer Science Student Will Build")](https://www.youtube.com/watch?v=KcJdUC3EmKA)
 <!-- END YOUTUBE-CARDS -->
 
 ---
