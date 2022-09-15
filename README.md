@@ -26,7 +26,7 @@ I started my coding journey as a naive computer science student with a passion t
 
 ## 📊 Stats
 
-[![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight)]
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=5.5)
 
 [website]: https://fkcodes.com
