@@ -42,12 +42,12 @@ I'm an indie full-stack developer and content creator building my version of the
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Programmer Giveaway](https://ytcards.demolab.com/?id=_HUJpBjMjts&title=Programmer+Giveaway&lang=en&timestamp=1705503629&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "Programmer Giveaway")](https://www.youtube.com/watch?v=_HUJpBjMjts)
 [![Insertion Sort Algorithm](https://ytcards.demolab.com/?id=nZHNwb_evBg&title=Insertion+Sort+Algorithm&lang=en&timestamp=1705316443&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=59 "Insertion Sort Algorithm")](https://www.youtube.com/watch?v=nZHNwb_evBg)
 [![How Much Software Engineers ACTUALLY Make](https://ytcards.demolab.com/?id=iACHGmlDWiw&title=How+Much+Software+Engineers+ACTUALLY+Make&lang=en&timestamp=1705158060&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1091 "How Much Software Engineers ACTUALLY Make")](https://www.youtube.com/watch?v=iACHGmlDWiw)
 [![Scientists vs Engineers](https://ytcards.demolab.com/?id=eftX-3H_4iY&title=Scientists+vs+Engineers&lang=en&timestamp=1705057237&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=21 "Scientists vs Engineers")](https://www.youtube.com/watch?v=eftX-3H_4iY)
 [![Bubble Sort](https://ytcards.demolab.com/?id=WjSiHtBQLlw&title=Bubble+Sort&lang=en&timestamp=1704884421&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=47 "Bubble Sort")](https://www.youtube.com/watch?v=WjSiHtBQLlw)
 [![First ACTUAL Computer Bug](https://ytcards.demolab.com/?id=lwl-KIxyAow&title=First+ACTUAL+Computer+Bug&lang=en&timestamp=1704805243&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=59 "First ACTUAL Computer Bug")](https://www.youtube.com/watch?v=lwl-KIxyAow)
-[![Why "Debugging" ??](https://ytcards.demolab.com/?id=m1OiF7oBKy4&title=Why+%22Debugging%22+%3F%3F&lang=en&timestamp=1704711644&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=58 "Why \"Debugging\" ??")](https://www.youtube.com/watch?v=m1OiF7oBKy4)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
