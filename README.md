@@ -42,12 +42,7 @@ I'm an indie full-stack developer and content creator building my version of the
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Win this RTX 4090 signed by Jensen Huang](https://ytcards.demolab.com/?id=VybxPh8Trls&title=Win+this+RTX+4090+signed+by+Jensen+Huang&lang=en&timestamp=1710538911&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "Win this RTX 4090 signed by Jensen Huang")](https://www.youtube.com/watch?v=VybxPh8Trls)
-[![How Data Structures & Algorithms are Actually Used](https://ytcards.demolab.com/?id=ALPWOiUKIjY&title=How+Data+Structures+%26+Algorithms+are+Actually+Used&lang=en&timestamp=1710513900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=699 "How Data Structures & Algorithms are Actually Used")](https://www.youtube.com/watch?v=ALPWOiUKIjY)
-[![Everything You Need to Know about Web Scraping (Advanced)](https://ytcards.demolab.com/?id=vxk6YPRVg_o&title=Everything+You+Need+to+Know+about+Web+Scraping+%28Advanced%29&lang=en&timestamp=1709917248&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=903 "Everything You Need to Know about Web Scraping (Advanced)")](https://www.youtube.com/watch?v=vxk6YPRVg_o)
-[![The Data Structure You Use Matters a Lot](https://ytcards.demolab.com/?id=VpnZnFUHhIU&title=The+Data+Structure+You+Use+Matters+a+Lot&lang=en&timestamp=1707836432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395 "The Data Structure You Use Matters a Lot")](https://www.youtube.com/watch?v=VpnZnFUHhIU)
-[![Top Paying Companies for Software Engineers](https://ytcards.demolab.com/?id=cIvduLKs5uY&title=Top+Paying+Companies+for+Software+Engineers&lang=en&timestamp=1707058821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=32 "Top Paying Companies for Software Engineers")](https://www.youtube.com/watch?v=cIvduLKs5uY)
-[![Merge Sort Visualized](https://ytcards.demolab.com/?id=MlyIGMOkL5s&title=Merge+Sort+Visualized&lang=en&timestamp=1706360421&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=55 "Merge Sort Visualized")](https://www.youtube.com/watch?v=MlyIGMOkL5s)
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
