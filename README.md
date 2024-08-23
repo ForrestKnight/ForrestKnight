@@ -41,12 +41,12 @@ I'm an indie full-stack developer and content creator building my version of the
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Java Datatypes](https://ytcards.demolab.com/?id=SKS9UMVW5Mc&title=Java+Datatypes&lang=en&timestamp=1724414437&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=54 "Java Datatypes")](https://www.youtube.com/watch?v=SKS9UMVW5Mc)
 [![Java Works On Everything](https://ytcards.demolab.com/?id=s096L3r28f8&title=Java+Works+On+Everything&lang=en&timestamp=1724335251&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=39 "Java Works On Everything")](https://www.youtube.com/watch?v=s096L3r28f8)
 [![Java Sucks](https://ytcards.demolab.com/?id=KgMJ0J7waMQ&title=Java+Sucks&lang=en&timestamp=1724256019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "Java Sucks")](https://www.youtube.com/watch?v=KgMJ0J7waMQ)
 [![Learn Java OOP with Code](https://ytcards.demolab.com/?id=TiccevwEVe8&title=Learn+Java+OOP+with+Code&lang=en&timestamp=1723212033&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1784 "Learn Java OOP with Code")](https://www.youtube.com/watch?v=TiccevwEVe8)
 [![world's shortest Java course](https://ytcards.demolab.com/?id=b5l5UodFzMo&title=world%27s+shortest+Java+course&lang=en&timestamp=1723125637&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1190 "world's shortest Java course")](https://www.youtube.com/watch?v=b5l5UodFzMo)
 [![I Coded with React for a Year](https://ytcards.demolab.com/?id=0RZGHUwwi4k&title=I+Coded+with+React+for+a+Year&lang=en&timestamp=1722534300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1574 "I Coded with React for a Year")](https://www.youtube.com/watch?v=0RZGHUwwi4k)
-[![Lefties are Discriminated Against](https://ytcards.demolab.com/?id=3Y80EODrJ_Y&title=Lefties+are+Discriminated+Against&lang=en&timestamp=1722096003&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=60 "Lefties are Discriminated Against")](https://www.youtube.com/watch?v=3Y80EODrJ_Y)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
