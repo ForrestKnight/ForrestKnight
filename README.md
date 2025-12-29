@@ -41,7 +41,12 @@ I'm an indie full-stack developer and content creator building my version of the
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Regretting Computer Science](https://ytcards.demolab.com/?id=ecV07gkVxUg&title=Regretting+Computer+Science&lang=en&timestamp=1765898031&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=43 "Regretting Computer Science")](https://www.youtube.com/shorts/ecV07gkVxUg)
+[![Your Terminal is Boring. Let's Fix It with These CLI Tools](https://ytcards.demolab.com/?id=XhLMS47l8Bw&title=Your+Terminal+is+Boring.+Let%27s+Fix+It+with+These+CLI+Tools&lang=en&timestamp=1765822504&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=987 "Your Terminal is Boring. Let's Fix It with These CLI Tools")](https://www.youtube.com/watch?v=XhLMS47l8Bw)
+[![Every Programmer's Favorite Laptop // you can win one](https://ytcards.demolab.com/?id=H3Q-zXz1BpU&title=Every+Programmer%27s+Favorite+Laptop+%2F%2F+you+can+win+one&lang=en&timestamp=1765565103&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=58 "Every Programmer's Favorite Laptop // you can win one")](https://www.youtube.com/shorts/H3Q-zXz1BpU)
+[![Rust Changed How I Code Forever](https://ytcards.demolab.com/?id=3lvofS5vktc&title=Rust+Changed+How+I+Code+Forever&lang=en&timestamp=1764612900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=906 "Rust Changed How I Code Forever")](https://www.youtube.com/watch?v=3lvofS5vktc)
+[![I Tried Coding on Every OS // Here’s What I Learned](https://ytcards.demolab.com/?id=yz4i8vD-Klc&title=I+Tried+Coding+on+Every+OS+%2F%2F+Here%E2%80%99s+What+I+Learned&lang=en&timestamp=1763053302&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1455 "I Tried Coding on Every OS // Here’s What I Learned")](https://www.youtube.com/watch?v=yz4i8vD-Klc)
+[![Java Isn't Verbose // we just suck](https://ytcards.demolab.com/?id=UZuWeLjyT3c&title=Java+Isn%27t+Verbose+%2F%2F+we+just+suck&lang=en&timestamp=1761941401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1275 "Java Isn't Verbose // we just suck")](https://www.youtube.com/watch?v=UZuWeLjyT3c)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
