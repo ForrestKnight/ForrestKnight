@@ -35,7 +35,12 @@ I'm a software engineer, Linux distro hopper, Java apologist, and content creato
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![AI Has Broken the Internet](https://ytcards.demolab.com/?id=44JBZwAsfJI&title=AI+Has+Broken+the+Internet&lang=en&timestamp=1774900800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1037 "AI Has Broken the Internet")](https://www.youtube.com/watch?v=44JBZwAsfJI)
+[!["Stop future proofing your PCs" is bad advice.](https://ytcards.demolab.com/?id=Nx4VUdwb-GU&title=%22Stop+future+proofing+your+PCs%22+is+bad+advice.&lang=en&timestamp=1774106663&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=51 "\"Stop future proofing your PCs\" is bad advice.")](https://www.youtube.com/shorts/Nx4VUdwb-GU)
+[![Coding with Opus 4.6 and Codex 5.3 is actually insane](https://ytcards.demolab.com/?id=Q2QmQTNA7vs&title=Coding+with+Opus+4.6+and+Codex+5.3+is+actually+insane&lang=en&timestamp=1770682800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1334 "Coding with Opus 4.6 and Codex 5.3 is actually insane")](https://www.youtube.com/watch?v=Q2QmQTNA7vs)
+[![I Can't Believe Rust is Replacing Java](https://ytcards.demolab.com/?id=-8JOlCvA4Qs&title=I+Can%27t+Believe+Rust+is+Replacing+Java&lang=en&timestamp=1770145201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=465 "I Can't Believe Rust is Replacing Java")](https://www.youtube.com/watch?v=-8JOlCvA4Qs)
+[![SWE or Dev](https://ytcards.demolab.com/?id=bNXqBcm4rvY&title=SWE+or+Dev&lang=en&timestamp=1769094069&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=36 "SWE or Dev")](https://www.youtube.com/shorts/bNXqBcm4rvY)
+[![Ben Affleck actually knows AI](https://ytcards.demolab.com/?id=7wWrbNjc3SQ&title=Ben+Affleck+actually+knows+AI&lang=en&timestamp=1769008073&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=177 "Ben Affleck actually knows AI")](https://www.youtube.com/shorts/7wWrbNjc3SQ)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
