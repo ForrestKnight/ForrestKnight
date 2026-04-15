@@ -27,7 +27,16 @@ jobs:
             echo "Failed to fetch subscriber count: $RESPONSE"
             exit 1
           fi
-          FORMATTED=$(python3 -c "print(f'{int(\"$COUNT\"):,}')")
+          FORMATTED=$(python3 -c "
+          c = int('$COUNT')
+          if c >= 1_000_000:
+              s = f'{c/1_000_000:.1f}M'.replace('.0M', 'M')
+          elif c >= 1_000:
+              s = f'{c//1_000}k'
+          else:
+              s = str(c)
+          print(s)
+          ")
           sed -i "s|<!--SUBS-START-->[^<]*<!--SUBS-END-->|<!--SUBS-START-->${FORMATTED}<!--SUBS-END-->|" README.md
 
       - name: Commit subscriber count update

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="145" height="28" viewBox="0 0 145 28" role="img" aria-label="Follow on 𝕏">
   <title>Follow on 𝕏</title>
-  <rect x="1.5" y="1.5" width="142" height="25" rx="3" fill="#000000" stroke="#ffffff" stroke-width="2"/>
-  <text x="72.5" y="19" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#ffffff" letter-spacing="1">FOLLOW ON 𝕏</text>
+  <rect x="1.5" y="1.5" width="142" height="25" fill="#000000" stroke="#ffffff" stroke-width="2"/>
+  <text x="72.5" y="19" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="12" text-anchor="middle" fill="#ffffff" letter-spacing="1">FOLLOW ON 𝕏</text>
 </svg>
