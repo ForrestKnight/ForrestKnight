@@ -2,7 +2,7 @@
 
 **`Digital Craftsman`**
 
-I'm a software engineer, Linux distro hopper, Java apologist, and content creator at [ForrestKnight][youtube] (<!--SUBS-START-->692,583<!--SUBS-END--> subscribers).
+I'm a software engineer, Linux distro hopper, Java apologist, and content creator at [ForrestKnight][youtube] (<!--SUBS-START-->692,000<!--SUBS-END--> subscribers).
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
