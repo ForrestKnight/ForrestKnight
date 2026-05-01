@@ -37,12 +37,7 @@ I'm a software engineer, Linux distro hopper, Java apologist, and content creato
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![GitHub is falling apart.](https://ytcards.demolab.com/?id=t-DM44d-qhU&title=GitHub+is+falling+apart.&lang=en&timestamp=1777560306&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1438 "GitHub is falling apart.")](https://www.youtube.com/watch?v=t-DM44d-qhU)
-[![So Claude Code's Source Code Was Just Leaked...](https://ytcards.demolab.com/?id=ESwH-_xFS_M&title=So+Claude+Code%27s+Source+Code+Was+Just+Leaked...&lang=en&timestamp=1775136630&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1757 "So Claude Code's Source Code Was Just Leaked...")](https://www.youtube.com/watch?v=ESwH-_xFS_M)
-[![AI Has Broken the Internet](https://ytcards.demolab.com/?id=44JBZwAsfJI&title=AI+Has+Broken+the+Internet&lang=en&timestamp=1774900800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1037 "AI Has Broken the Internet")](https://www.youtube.com/watch?v=44JBZwAsfJI)
-[![Coding with Opus 4.6 and Codex 5.3 is actually insane](https://ytcards.demolab.com/?id=Q2QmQTNA7vs&title=Coding+with+Opus+4.6+and+Codex+5.3+is+actually+insane&lang=en&timestamp=1770682800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1334 "Coding with Opus 4.6 and Codex 5.3 is actually insane")](https://www.youtube.com/watch?v=Q2QmQTNA7vs)
-[![I Can't Believe Rust is Replacing Java](https://ytcards.demolab.com/?id=-8JOlCvA4Qs&title=I+Can%27t+Believe+Rust+is+Replacing+Java&lang=en&timestamp=1770145201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=465 "I Can't Believe Rust is Replacing Java")](https://www.youtube.com/watch?v=-8JOlCvA4Qs)
-[![33 CLI Tools You Need to Try](https://ytcards.demolab.com/?id=XhLMS47l8Bw&title=33+CLI+Tools+You+Need+to+Try&lang=en&timestamp=1765822504&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=987 "33 CLI Tools You Need to Try")](https://www.youtube.com/watch?v=XhLMS47l8Bw)
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
