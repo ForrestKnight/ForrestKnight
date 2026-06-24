@@ -37,7 +37,12 @@ I'm a software engineer, Linux distro hopper, Java apologist, and content creato
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Local AI Coding is Finally Good Enough](https://ytcards.demolab.com/?id=zPqcS5AvQvQ&title=Local+AI+Coding+is+Finally+Good+Enough&lang=en&timestamp=1781818817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1343 "Local AI Coding is Finally Good Enough")](https://www.youtube.com/watch?v=zPqcS5AvQvQ)
+[![Coding with Fable 5 is actually insane.](https://ytcards.demolab.com/?id=2kObwHxHILQ&title=Coding+with+Fable+5+is+actually+insane.&lang=en&timestamp=1781280029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1798 "Coding with Fable 5 is actually insane.")](https://www.youtube.com/watch?v=2kObwHxHILQ)
+[![The Mythos Situation is Crazy](https://ytcards.demolab.com/?id=UYbZo6UuMMY&title=The+Mythos+Situation+is+Crazy&lang=en&timestamp=1781103622&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=929 "The Mythos Situation is Crazy")](https://www.youtube.com/watch?v=UYbZo6UuMMY)
+[![I Can't Believe Rust Is Replacing Zig, Too](https://ytcards.demolab.com/?id=2AqwehBu84w&title=I+Can%27t+Believe+Rust+Is+Replacing+Zig%2C+Too&lang=en&timestamp=1779472800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=976 "I Can't Believe Rust Is Replacing Zig, Too")](https://www.youtube.com/watch?v=2AqwehBu84w)
+[![Wait, I thought Java was dead?](https://ytcards.demolab.com/?id=HhPs2sKlQYg&title=Wait%2C+I+thought+Java+was+dead%3F&lang=en&timestamp=1777649409&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1725 "Wait, I thought Java was dead?")](https://www.youtube.com/watch?v=HhPs2sKlQYg)
+[![GitHub is Falling Apart](https://ytcards.demolab.com/?id=t-DM44d-qhU&title=GitHub+is+Falling+Apart&lang=en&timestamp=1777560306&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1438 "GitHub is Falling Apart")](https://www.youtube.com/watch?v=t-DM44d-qhU)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
