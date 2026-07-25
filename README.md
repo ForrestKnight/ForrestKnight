@@ -37,12 +37,7 @@ I'm a software engineer, Linux distro hopper, Java apologist, and content creato
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Coding with Grok 4.5 is surprisingly good…](https://ytcards.demolab.com/?id=5J6HCDEkg64&title=Coding+with+Grok+4.5+is+surprisingly+good%E2%80%A6&lang=en&timestamp=1783717238&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1622 "Coding with Grok 4.5 is surprisingly good…")](https://www.youtube.com/watch?v=5J6HCDEkg64)
-[![AI Isn't Replacing Developers](https://ytcards.demolab.com/?id=7QKcphdM5Cw&title=AI+Isn%27t+Replacing+Developers&lang=en&timestamp=1783013436&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2123 "AI Isn't Replacing Developers")](https://www.youtube.com/watch?v=7QKcphdM5Cw)
-[![Local AI Coding is Finally Good Enough](https://ytcards.demolab.com/?id=zPqcS5AvQvQ&title=Local+AI+Coding+is+Finally+Good+Enough&lang=en&timestamp=1781818817&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1343 "Local AI Coding is Finally Good Enough")](https://www.youtube.com/watch?v=zPqcS5AvQvQ)
-[![Coding with Fable 5 is actually insane.](https://ytcards.demolab.com/?id=2kObwHxHILQ&title=Coding+with+Fable+5+is+actually+insane.&lang=en&timestamp=1781280029&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1798 "Coding with Fable 5 is actually insane.")](https://www.youtube.com/watch?v=2kObwHxHILQ)
-[![The Mythos Situation is Crazy](https://ytcards.demolab.com/?id=UYbZo6UuMMY&title=The+Mythos+Situation+is+Crazy&lang=en&timestamp=1781103622&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=929 "The Mythos Situation is Crazy")](https://www.youtube.com/watch?v=UYbZo6UuMMY)
-[![I Can't Believe Rust Is Replacing Zig, Too](https://ytcards.demolab.com/?id=2AqwehBu84w&title=I+Can%27t+Believe+Rust+Is+Replacing+Zig%2C+Too&lang=en&timestamp=1779472800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=976 "I Can't Believe Rust Is Replacing Zig, Too")](https://www.youtube.com/watch?v=2AqwehBu84w)
+
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
