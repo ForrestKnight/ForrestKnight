@@ -37,7 +37,12 @@ I'm a software engineer, Linux distro hopper, Java apologist, and content creato
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Man, I love Java...](https://ytcards.demolab.com/?id=29k3eay4Lr4&title=Man%2C+I+love+Java...&lang=en&timestamp=1789574425&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=628 "Man, I love Java...")](https://www.youtube.com/watch?v=29k3eay4Lr4)
+[![Why Every Company Copied Netflix's Architecture (And Shouldn't Have)](https://ytcards.demolab.com/?id=I_of74HSHiA&title=Why+Every+Company+Copied+Netflix%27s+Architecture+%28And+Shouldn%27t+Have%29&lang=en&timestamp=1789417232&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1332 "Why Every Company Copied Netflix's Architecture (And Shouldn't Have)")](https://www.youtube.com/watch?v=I_of74HSHiA)
+[![Why Rust Can't Replace C++](https://ytcards.demolab.com/?id=QNPwKMOQIKM&title=Why+Rust+Can%27t+Replace+C%2B%2B&lang=en&timestamp=1788354914&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=990 "Why Rust Can't Replace C++")](https://www.youtube.com/watch?v=QNPwKMOQIKM)
+[![AI Has Broken Open Source](https://ytcards.demolab.com/?id=qazhWj8kYLo&title=AI+Has+Broken+Open+Source&lang=en&timestamp=1786993393&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1545 "AI Has Broken Open Source")](https://www.youtube.com/watch?v=qazhWj8kYLo)
+[![Why Everyone's Rewriting Everything in Rust](https://ytcards.demolab.com/?id=iu_ALBDtoHo&title=Why+Everyone%27s+Rewriting+Everything+in+Rust&lang=en&timestamp=1786377950&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1537 "Why Everyone's Rewriting Everything in Rust")](https://www.youtube.com/watch?v=iu_ALBDtoHo)
+[![My IntelliJ IDEA Setup for Java Development](https://ytcards.demolab.com/?id=nZ9PBEXyBYA&title=My+IntelliJ+IDEA+Setup+for+Java+Development&lang=en&timestamp=1785177912&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1034 "My IntelliJ IDEA Setup for Java Development")](https://www.youtube.com/watch?v=nZ9PBEXyBYA)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
