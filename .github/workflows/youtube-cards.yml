@@ -16,15 +16,16 @@ jobs:
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           show_duration: true
 
-      - name: Update YouTube badges
+      - name: Update profile badges
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: python3 .github/scripts/youtube_stats.py
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python3 .github/scripts/profile_badges.py
 
-      - name: Commit YouTube stats update
+      - name: Commit badge updates
         uses: EndBug/add-and-commit@v9
         with:
-          message: "docs(readme): Update YouTube stats"
-          add: "README.md .github/assets/youtube-subscribers.svg .github/assets/youtube-views.svg"
+          message: "docs(readme): Update profile badges"
+          add: ".github/assets"
           author_name: "GitHub Actions"
           author_email: "41898282+github-actions[bot]@users.noreply.github.com"
