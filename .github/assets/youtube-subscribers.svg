@@ -1,10 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="163" height="28" viewBox="0 0 163 28" role="img" aria-label="SUBSCRIBE: 705K">
-  <title>SUBSCRIBE: 705K</title>
-  <rect width="112.8" height="28" fill="#CE4630"/>
-  <rect x="112.8" width="50.3" height="28" fill="#E05D44"/>
-  <g transform="translate(9 7)"><rect x="0.9" y="1.9" width="12.2" height="10.2" rx="1.6" fill="none" stroke="#fff" stroke-width="1.6"/><path d="M5.4 4.4v5.2L9.8 7z" fill="#fff"/></g>
-  <g fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" text-rendering="geometricPrecision">
-    <text x="29.0" y="17.5" textLength="74.8" lengthAdjust="spacingAndGlyphs">SUBSCRIBE</text>
-    <text x="121.8" y="17.5" textLength="32.3" lengthAdjust="spacingAndGlyphs" font-weight="bold">705K</text>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="172.25" height="28" role="img" aria-label="SUBSCRIBE: 705K"><title>SUBSCRIBE: 705K</title><g shape-rendering="crispEdges"><rect width="114.25" height="28" fill="#CE4630"/><rect x="114.25" width="58" height="28" fill="#E05D44"/></g><g transform="translate(9 7)"><rect x="0.9" y="1.9" width="12.2" height="10.2" rx="1.6" fill="none" stroke="#fff" stroke-width="1.6"/><path d="M5.4 4.4v5.2L9.8 7z" fill="#fff"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="671.25" y="175" textLength="702.5">SUBSCRIBE</text><text transform="scale(.1)" x="1432.5" y="175" textLength="340" font-weight="bold">705K</text></g></svg>
