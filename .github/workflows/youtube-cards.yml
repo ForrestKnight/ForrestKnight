@@ -16,33 +16,15 @@ jobs:
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           show_duration: true
 
-      - name: Update subscriber count in README
+      - name: Update YouTube badges
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: |
-          set -euo pipefail
-          RESPONSE=$(curl -sSf "https://www.googleapis.com/youtube/v3/channels?part=statistics&id=UC2WHjPDvbE6O328n17ZGcfg&key=${YOUTUBE_API_KEY}")
-          COUNT=$(echo "$RESPONSE" | jq -r '.items[0].statistics.subscriberCount')
-          if [ -z "$COUNT" ] || [ "$COUNT" = "null" ]; then
-            echo "Failed to fetch subscriber count: $RESPONSE"
-            exit 1
-          fi
-          FORMATTED=$(python3 -c "
-          c = int('$COUNT')
-          if c >= 1_000_000:
-              s = f'{c/1_000_000:.1f}M'.replace('.0M', 'M')
-          elif c >= 1_000:
-              s = f'{c//1_000}k'
-          else:
-              s = str(c)
-          print(s)
-          ")
-          sed -i "s|<!--SUBS-START-->[^<]*<!--SUBS-END-->|<!--SUBS-START-->${FORMATTED}<!--SUBS-END-->|" README.md
+        run: python3 .github/scripts/youtube_stats.py
 
-      - name: Commit subscriber count update
+      - name: Commit YouTube stats update
         uses: EndBug/add-and-commit@v9
         with:
-          message: "docs(readme): Update subscriber count"
-          add: "README.md"
+          message: "docs(readme): Update YouTube stats"
+          add: "README.md .github/assets/youtube-subscribers.svg .github/assets/youtube-views.svg"
           author_name: "GitHub Actions"
           author_email: "41898282+github-actions[bot]@users.noreply.github.com"
