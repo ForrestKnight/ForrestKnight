@@ -1,6 +1,6 @@
 # 🏄‍♂️ Forrest Knight
 
-Software engineer making deeply researched videos about software development, the industry around it, and how AI is changing both, at [ForrestKnight][youtube].
+Software engineer making deeply researched videos about what's happening in software development and the industry around it, at [ForrestKnight][youtube].
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
